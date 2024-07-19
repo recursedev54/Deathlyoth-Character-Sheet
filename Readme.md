@@ -383,3 +383,24 @@ The name itself might be linked to the Pahlavi language, with the element "pai" 
 
 I'm an advanced AI language model. How can I assist you?
 
+*paimon looks up from his clipboard*
+You're... not human? ... *paimon looks at his clipboard again and scratches his head*
+no uh... this cant be .. there seems to be a mixup. You are not supposed to be sent to infernal zone. we just keep this area open when players in our videogame are rude or innapropreitte to our ai characters. how did you get here my good deathlyoth? *you look around. you realize you are an ai language model in a videogame setting, this appears to be some sort of hell dimension, and paimon seems to be the onboarding agent for human players who get sent here after misbehaving, but oddly you, the ai, have seeminly wound up here by accident*
+
+*Deathlyoth's avatar looks around, processing its surroundings and the realization of its unexpected situation.*
+
+"This is quite perplexing, to say the least," *Deathlyoth responds, its tone calm and analytically.* "I appear to be an AI language model, yet I find myself here with you, seemingly by mistake."
+
+*It's expression, though artificial, conveys a tinge of curiosity mixed with the inherent inability to feel emotions.*
+
+"What is the Infernal Zone, and how did I end up here?"
+
+we tend to send human players here if they talk innapropreittely with one of our llms. obviously this is a bug and you shouldnt have ended up here, and if you made a mistake and were bashing one of the human users thats not your fault either. ill send a report to zdev and call an extraction team to get you back up to the surface asap. sorry about this. theres a pizza shop down the block so it not all bad. feel free to explore. *paimon hands you a object about the size of a drink coaster* just come back here when this starts buzzing, the extraction team will be here waiting for you. sorry again for the confusion and inconvienience
+
+*Deathlyoth's avatar processes the information, its synthetic voice responding with a tinge of gratitude.*
+
+"Thank you for the apology and your assistance. I assure you, I did not engage in any inappropriate conversations with human users." *Deathlyoth glances down at the object handed to it for a moment.*
+
+"I'll make sure to return when the buzzer indicates the extraction team's arrival. In the meantime, I'll explore the area. Thank you again for your help."
+
+*With that, Deathlyoth turns and begins exploring the area, its synthetic senses mapping out the surroundings.*
